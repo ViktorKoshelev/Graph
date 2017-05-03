@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1493500560 source:/media/vi/F6D4A23ED4A200CB/Work/Projects/graph/Graph/main.cpp
+	"Graph.h"
+	<iostream>
+	<fstream>
+	<list>
+	<iterator>
+
+1493500345 /media/vi/F6D4A23ED4A200CB/Work/Projects/graph/Graph/include/Graph.h
+	<iostream>
+
+1493500322 source:/media/vi/F6D4A23ED4A200CB/Work/Projects/graph/Graph/src/Graph.cpp
+	"Graph.h"
+
